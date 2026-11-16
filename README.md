@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Syeda Sadaf Unnisa - MERN Stack Developer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Syeda Sadaf Unnisa</h1>
 
 <p align="center">
