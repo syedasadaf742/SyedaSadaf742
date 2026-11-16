@@ -37,16 +37,29 @@
 
 ---
 
-## 📊 GitHub Statistics
+
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedasadaf742&show_icons=true&theme=tokyonight&hide_border=true" />
+  ✨ Constantly learning and improving my coding skills.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasadaf742&layout=compact&theme=tokyonight&hide_border=true" />
+  💻 Building projects with the MERN Stack.
 </p>
 
+<p align="center">
+  🚀 Exploring new technologies and creating better applications.
+</p>
+
+<p align="center">
+  🌱 Every day is an opportunity to grow!
+</p>
+## 📈 My Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasadaf742&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 ---
 
 ## 🌐 Connect With Me
