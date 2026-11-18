@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Syeda Sadaf Unnisa Developer Banner.png" />
+  <img src="Syeda%20Sadaf%20Unnisa%20Developer%20Banner.png" width="100%" alt="Syeda Sadaf Unnisa Developer Banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syeda Sadaf Unnisa</h1>
